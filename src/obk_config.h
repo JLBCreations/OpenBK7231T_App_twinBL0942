@@ -1,6 +1,7 @@
 //////////////////////////////////////////////////////
 // specify which parts of the app we wish to be active
 //
+// JB made changes 7 june 1971
 #ifndef OBK_CONFIG_H
 #define OBK_CONFIG_H
 
